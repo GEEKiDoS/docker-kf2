@@ -1,4 +1,4 @@
-FROM ubuntu:focal
+FROM ubuntu:eoan
 
 RUN \
 	apt-get -y update && \
